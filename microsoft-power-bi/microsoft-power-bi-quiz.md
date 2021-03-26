@@ -223,8 +223,8 @@
 
 #### Q32. When you use Publish to Web in the Power BI service, who can view your published content?
  - [ ] everyone in your environment
- - [ ] anyone on the internet
- - [x] everyone in your organization
+ - [x] anyone on the internet
+ - [ ] everyone in your organization
  - [ ] only you
 
 #### Q33. The iterator functions SUMX and AVERAGEX are used to perform calculations _____.
